@@ -23,4 +23,4 @@ document.getElementById('previous-btn').addEventListener('click', (event) => {
   images.unshift(arrayimage);
 
 });
-233
+
